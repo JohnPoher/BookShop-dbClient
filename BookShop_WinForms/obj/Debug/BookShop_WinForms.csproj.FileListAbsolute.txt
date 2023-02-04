@@ -1,0 +1,70 @@
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.exe.config
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.exe
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.pdb
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.dll
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.xml
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.AssemblyReference.cache
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Form1.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Properties.Resources.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.GenerateResource.cache
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.CopyComplete
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.exe
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.pdb
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Authorization.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddAuthor.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddBook.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddBooksToGenres.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddGenres.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddPromotion.resources
+C:\Users\ZEN\source\repos\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddPublishing.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.exe.config
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.exe
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.pdb
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Authorization.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Form1.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddAuthor.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddBook.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddBooksToGenres.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddGenres.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddPromotion.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddPublishing.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Properties.Resources.resources
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.CopyComplete
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.exe
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.pdb
+C:\Users\User\Desktop\экзамен adonet\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Form2.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.exe.config
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.exe
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\bin\Debug\BookShop_WinForms.pdb
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.dll
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.xml
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.AssemblyReference.cache
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Authorization.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Form1.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Form2.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddAuthor.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddBook.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddBooksToGenres.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddGenres.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddPromotion.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.FormsAddInfo.AddPublishing.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.Properties.Resources.resources
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.GenerateResource.cache
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.csproj.CopyComplete
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.exe
+C:\Users\ZEN\Desktop\BookShop_WinForms\BookShop_WinForms\obj\Debug\BookShop_WinForms.pdb
